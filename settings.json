@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SHADOW_HEAVEN_SMP.aternos.me",
+    "ip": "flagfin.aternos.host",
     "port": 48014,
     "version": "26.2",
     "try-creative": false
